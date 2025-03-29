@@ -1,0 +1,69 @@
+================================================================================
+WILLIAM PATERSON UNIVERSITY DUO MOBILE AUTHENTICATION GUIDE
+================================================================================
+
+DUO MOBILE APP
+--------------
+Duo Mobile can be downloaded from the Apple App Store or Google Play Store.
+
+### Download Duo Mobile App:
+- Duo Mobile for iPhone
+- Duo Mobile for Android
+
+REACTIVATING DUO MOBILE APP
+---------------------------
+If you change mobile devices or if your Duo App becomes disassociated with your account, you must reactivate the app:
+1. Log in to WPconnect and navigate to the Duo Management Application.
+2. Receive a second phone call or passcode to access the app.
+3. Follow the on-screen instructions to scan the QR code with your Duo Mobile App.
+
+If you do not have your previous device or the app has stopped working, request a Duo Temporary Passcode from the Login Assistance page.
+
+TROUBLESHOOTING DUO MOBILE APP PUSH NOTIFICATIONS
+------------------------------------------------
+If you are not receiving notifications:
+- Ensure notifications are enabled in your phone settings.
+- Refer to:
+  - iOS Troubleshooting
+  - Android Troubleshooting
+
+DUO MULTIFACTOR AUTHENTICATION FOR LANDLINE & OTHER DEVICES
+-----------------------------------------------------------
+Employees unable to use the mobile app can:
+- Register a mobile phone to receive text passcodes or calls.
+- Register a landline for authentication.
+
+Manage authentication devices through the **Duo Device Management Portal** in WPconnect.
+
+MANAGING DEVICES
+---------------
+1. Authenticate using an existing device.
+2. Navigate to "My Settings & Devices" to add or remove devices.
+3. Select a device for automatic push notifications upon login.
+
+ADDING A NEW DEVICE
+-------------------
+1. Choose the device type: Mobile Phone, Tablet, or Landline (employees only).
+2. Provide the phone number and device type.
+3. Download Duo Mobile and scan the QR code.
+
+LOGGING INTO WPCONNECT WITH DUO
+-------------------------------
+After logging into WPconnect via Shibboleth, you will be redirected to the Multifactor Authentication page.
+
+Authentication options:
+- **Duo Push** (recommended)
+- **Phone Call** (press any key to acknowledge login)
+- **Passcode** (generated via Duo Mobile or received by text)
+
+**Remember Me Option:**
+- Select "Remember me for 12 hours" to avoid repeated prompts.
+- If the option is greyed out, click "Cancel" and try again.
+
+ACCOUNT LOCKOUT
+--------------
+Your account will be locked after multiple failed authentication attempts. To unlock:
+- Submit a support ticket.
+- Call 973-720-4357.
+================================================================================
+

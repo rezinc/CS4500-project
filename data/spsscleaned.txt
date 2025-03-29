@@ -1,0 +1,56 @@
+================================================================================
+WILLIAM PATERSON UNIVERSITY SPSS INSTALLATION GUIDE
+================================================================================
+
+SPSS FOR HOME USE
+-----------------
+Available for faculty, staff, and students. Requires download via WPconnect and activation with a license key.
+
+1. **For University-Owned Machines**:
+   - Available via:
+     - Windows: Software Center
+     - macOS: Managed Software Center
+
+2. **For Personal Machines**:
+   - Uninstall older SPSS versions first.
+   - Download instructions:
+     # Log in to WPconnect.
+     # Navigate to "My Home Use Software List" (under Students/Employees tab).
+     # Download the latest version (e.g., "IBM SPSS 30") for your OS (Windows/macOS).
+
+
+WINDOWS INSTALLATION STEPS
+--------------------------
+1. Run the installer and follow prompts.
+2. Launch the **License Wizard** when prompted.
+3. Select "Authorized user license."
+4. Enter the activation code (found in WPconnect’s "My Home Use Software" section).
+5. Complete installation.
+
+MAC INSTALLATION STEPS
+----------------------
+**Requirements**: macOS Catalina (10.15) or later.
+1. Download the `.pkg` file from WPconnect.
+2. Double-click `SPSSSC_30.0.0.0_Mac_OS.pkg` to install.
+3. Reboot after installation.
+4. Open SPSS and select "Authorized user license."
+5. Enter the activation code from WPconnect.
+
+
+COMMUTER LICENSE (OFF-CAMPUS USE)
+---------------------------------
+Allows SPSS use without VPN for up to **30 days**. Set up while on campus/VPN:
+1. In SPSS, go to **File > Manage License**.
+2. Select **Launch Commuter Utility Tool**.
+3. Set duration (max 30 days) and click **Check Out**.
+4. Click **Check In** when returning to campus.
+
+
+RESOURCES
+---------
+- Tutorials:
+  - [SPSS for Windows (University of Toronto)](http://www.psych.utoronto.ca/courses/c1/spss/page1.htm)
+  - [SPSS Basics (CSU Los Angeles)](http://www.slideshare.net/itstraining80/spss-statistics-how-to-use-spss)
+  - [YouTube Tutorial](https://www.youtube.com/watch?v=i8lmUkB4lag)
+
+================================================================================
