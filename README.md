@@ -21,7 +21,6 @@ Ensure you have Python 3.9+ installed.
 Create and activate a virtual environment:
 
 ```bash
-Copy code
 python -m venv venv
 # For Windows:
 venv\Scripts\activate
